@@ -1,2 +1,2 @@
 # Super-Shop-Management-System
-A Super Shop Management System Implemented with Java Language And using mySQL Database .
+A own java project- Super Shop Management System Implemented with Java Language And using mySQL Database .
